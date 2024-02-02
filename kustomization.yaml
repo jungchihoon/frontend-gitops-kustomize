@@ -5,5 +5,5 @@ resources:
 - service.yaml
 - route.yaml
 images:
-- name: ghcr.io/shclub/edu12-frontend
+- name: ghcr.io/shclub/vue3
   newTag: "20230328004222"
